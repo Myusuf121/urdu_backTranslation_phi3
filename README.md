@@ -3,6 +3,7 @@
 ## What’s Unique About This Project?
 While most sentiment analysis tasks rely on static datasets, this project introduces a dynamic approach to improve the quality and quantity of data for training. It takes three key steps to achieve its goal:
 
+[Dataset Link:] (https://github.com/siddiquelatif/urdu-dataset?tab=readme-ov-file)
 ## 1. Expanding the Dataset with Back Translation
 Back translation is used as a data augmentation technique to generate diverse and contextually accurate Urdu samples. The process involves:
 
